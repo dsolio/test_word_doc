@@ -1,4 +1,4 @@
-The Best of Reddit in 2017
+**The Best of Reddit in 2017**
 
 The top posts, communities, AMAs, and other highlights from the past
 year.
@@ -17,7 +17,7 @@ Sure, the year's not quite over yet, but we wanted to take a moment to
 share some highlights from 2017 (and a few of our communities' own "best
 of 2017" posts).
 
-Most Upvoted Posts of 2017
+**Most Upvoted Posts of 2017**
 
 "The Senate. Upvote this so that people see it when they Google 'The
 Senate.'"
@@ -48,7 +48,7 @@ blue?"
 
 "We need your voice as we continue the fight for net neutrality"
 
-Top AMAs of 2017
+**Top AMAs of 2017**
 
 "I'm Bill Gates, co-chair of the Bill & Melinda Gates Foundation. Ask Me
 Anything."
@@ -82,7 +82,7 @@ was just made into a movie. AMA."
 drilling, and approved the Dakota Access pipeline. I'm an environmental
 lawyer taking him to court. AMA!"
 
-Largest New Communities Created in 2017
+**Largest New Communities Created in 2017**
 
 r/MovieDetails
 
@@ -111,7 +111,7 @@ r/SequelMemes (which just missed the cut-off at \#11).
 r/PrequelMemes (which just missed the cut-off because it was created
 five days before the start of 2017).
 
-Reddit Superlatives
+**Reddit Superlatives**
 
 Best Grassroots Community Organizing
 
