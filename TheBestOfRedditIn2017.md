@@ -1,5 +1,4 @@
-**The Best of Reddit in 2017\
-**
+**The Best of Reddit in 2017**
 
 Contents {#contents .TOCHeading}
 ========
@@ -16,9 +15,6 @@ Contents {#contents .TOCHeading}
 [4.1 Honorable mentions 6](#honorable-mentions)
 
 [5 Reddit Superlatives 7](#reddit-superlatives)
-
-**\
-**
 
 Introduction
 ============
@@ -176,3 +172,12 @@ Best Reddit Story Shared on a Late-Night Talk Show
 Best Comments Section Written Entirely by One User
 
 u/rooster\_86
+
+Appendix A
+==========
+
+Data line 1
+
+data line 2
+
+data line 3
