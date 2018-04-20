@@ -148,7 +148,3 @@ Best Reddit Story Shared on a Late-Night Talk Show
 Best Comments Section Written Entirely by One User
 
 u/rooster\_86
-
-Most Creative AMA
-
-Blue Man Group
