@@ -1,5 +1,7 @@
 **The Best of Reddit in 2017**
 
+**Date: 4/20/2017**
+
 Contents {#contents .TOCHeading}
 ========
 
@@ -21,6 +23,8 @@ Introduction
 
 The top posts, communities, AMAs, and other highlights from the past
 year.
+
+Community Staff • December 19, 2017
 
 2017 was a jam-packed year for all of us. Here at Reddit HQ, our teams
 have been hard at work to ship more product than ever before---from
